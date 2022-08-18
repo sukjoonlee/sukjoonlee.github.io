@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="name_en.svg"> <!width=50% height=50%>
+  <img src="name_en.svg">
 </p>
 
 <img src="profile.jpg">
